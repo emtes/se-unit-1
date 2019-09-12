@@ -1,2 +1,72 @@
 /* Styles go beneath here! */
 
+body {
+    font-family: sans-serif;
+    color: #333333;
+}
+
+header {
+    background-color: #eeeeee;
+    text-align: center;
+    margin: 0;
+    padding: 15px 0;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+main {
+    margin: 0;
+    padding: 15px 0;
+    background: #eeeeee;
+}
+
+figure {
+    background-color: white;
+    text-align: center;
+    
+}
+
+figcaption {
+    padding: 15px 0;
+}
+
+img {
+    width: 1024px;
+    height: auto;
+    margin-top: 20px;
+  
+}
+
+section {
+    margin: 0 300px;
+    
+}
+
+ul {
+    margin: 20px 0;
+}
+
+li {
+    line-height: 25px;
+    margin: 20px 0;
+}
+
+h2 {
+    text-align: center;
+    font-size: 18px;
+    padding: 20px 0;
+}
+
+
+footer {
+    background-color: #eeeeee;
+    text-align: center;
+    margin: 0;
+    padding: 15px;
+}
+
+blockquote {
+    font-style: italic;
+}
