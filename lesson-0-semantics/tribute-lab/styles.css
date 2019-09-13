@@ -9,7 +9,13 @@ header {
     background-color: #eeeeee;
     text-align: center;
     margin: 0;
-    padding: 15px 0;
+    padding-top: 15px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+p {
+    margin: 0 0;
 }
 
 h1 {
@@ -17,14 +23,15 @@ h1 {
 }
 
 main {
-    margin: 0;
-    padding: 15px 0;
+    margin: 0 0;
+    padding: 32px 0;
     background: #eeeeee;
 }
 
 figure {
     background-color: white;
     text-align: center;
+    margin: 0 .8%;
     
 }
 
@@ -33,14 +40,15 @@ figcaption {
 }
 
 img {
-    width: 1024px;
+    max-width: 66%;
     height: auto;
-    margin-top: 20px;
+    margin-top: 32px;
+    
   
 }
 
 section {
-    margin: 0 300px;
+    margin: 0 30%;
     
 }
 
@@ -63,8 +71,11 @@ h2 {
 footer {
     background-color: #eeeeee;
     text-align: center;
+    font-size: 18px;
     margin: 0;
     padding: 15px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
 }
 
 blockquote {
